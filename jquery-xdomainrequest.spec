@@ -2,7 +2,7 @@
 Summary:	Cross-Domain AJAX for IE8
 Name:		jquery-%{plugin}
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/WWW
 Source0:	http://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/%{version}/jquery.xdomainrequest.min.js
